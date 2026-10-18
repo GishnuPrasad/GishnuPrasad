@@ -3,7 +3,7 @@
 **Full-Stack & AI Engineer** building production web, mobile, backend, and agentic AI systems end-to-end[cite: 1]. Experienced in architecting resilient backends, dynamic interfaces, and multi-provider LLM workflows with fallback routing[cite: 1].
 
 📍 Pathanamthitta, Kerala, India[cite: 1]  
-🌐 [Portfolio Website](https://magical-phoenix-851214.netlify.app) • ✉️ [gishnugp7117@gmail.com](mailto:gishnugp7117@gmail.com)[cite: 1]
+🌐 [Portfolio Website](https://gishnuprasadportfolio.netlify.app/) • ✉️ [gishnugp7117@gmail.com](mailto:gishnugp7117@gmail.com)[cite: 1]
 
 ---
 
@@ -47,7 +47,7 @@
 ---
 
 ### 📫 Connect With Me
-- **Portfolio:** [magical-phoenix-851214.netlify.app](https://magical-phoenix-851214.netlify.app)
+- **Portfolio:** https://gishnuprasadportfolio.netlify.app/
 - **LinkedIn:** [linkedin.com/in/YOUR_LINKEDIN_SLUG](https://linkedin.com)
 - **Email:** [gishnugp7117@gmail.com](mailto:gishnugp7117@gmail.com)[cite: 1]
 - **Phone:** [+91 9207791668](tel:+919207791668)[cite: 1]
